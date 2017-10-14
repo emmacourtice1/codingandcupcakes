@@ -1,0 +1,16 @@
+html,body{
+    background:#ef9fdc;
+}
+.header{
+	background: #6feaea;
+}
+ul.menu li  a{
+    border-bottom: solid 5px #0732e6;
+}
+ul.menu li  a.selected{
+        background: #56dcc6;
+    border-bottom: solid 5px #3aa945;
+}
+h1,h2,h3{
+    font-family: 'Homemade Apple', cursive;
+}
